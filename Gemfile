@@ -25,6 +25,7 @@ end
 
 
 group :development do
+  gem 'figaro'
   gem 'faker'
   gem 'annotate'
   gem 'bullet'
